@@ -1,4 +1,4 @@
-# rupiyo_seller
+# rupeyo_Partner
 
 A new Flutter project.
 
